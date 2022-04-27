@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:#004386;
+	color:white;
+	font-family:"Arial";
+	font-weight:600;
+}
+.GrupoA{
+	background-color:#FE172E;
+}
+.GrupoB{
+	background-color:#004DB9;
+}
+.GrupoC{
+	background-color:#FC9317;
+}
+.GrupoD{
+	background-color:#A0A7A5;
+}
